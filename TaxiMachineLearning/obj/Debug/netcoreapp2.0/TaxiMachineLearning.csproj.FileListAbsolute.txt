@@ -1,0 +1,13 @@
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\TaxiMachineLearning.deps.json
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\TaxiMachineLearning.runtimeconfig.json
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\TaxiMachineLearning.runtimeconfig.dev.json
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\TaxiMachineLearning.dll
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.csprojResolveAssemblyReference.cache
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.AssemblyInfoInputs.cache
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.AssemblyInfo.cs
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\Data\taxi-fare-test.csv
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\Data\taxi-fare-train.csv
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\bin\Debug\netcoreapp2.0\TaxiMachineLearning.pdb
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.dll
+C:\Users\pchri\Projects\TaxiMachineLearning\TaxiMachineLearning\obj\Debug\netcoreapp2.0\TaxiMachineLearning.pdb
